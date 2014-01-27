@@ -3,6 +3,7 @@
 // Language definitions used in both profile.php and register.php
 $lang_prof_reg = array(
 
+'validation code incorrect' => '验证码不对',
 'Email legend'				=>	'Enter a valid email address',
 'Email legend 2'			=>	'Enter and confirm a valid email address',
 'Localisation legend'		=>	'Set your localisation options',
